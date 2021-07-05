@@ -1,0 +1,15 @@
+gym==0.10.5
+chainer==5.1.0
+chainerrl==0.6.0
+matplotlib==2.0.2
+pybind11==2.2.4
+path.py
+-e git+https://github.com/Theano/Theano.git@adfe319ce6b781083d8dc3200fb4481b00853791#egg=Theano
+joblib==0.11
+pyprind
+lasagne
+cloudpickle
+tensorflow==1.12.0
+mujoco_py==1.50.1.56
+PyOpenGL
+mako
